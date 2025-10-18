@@ -1,0 +1,4 @@
+# Uneingeschränkter Zugriff für alle Bots und KI-Crawler
+User-agent: *
+Disallow: /Datei_
+Sitemap: sitemap.xml
