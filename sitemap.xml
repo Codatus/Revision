@@ -1,1567 +1,1044 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://revision.kliefert.net/</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://revision.kliefert.net/</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Hauptseite.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://revision.kliefert.net/Hauptseite.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Martin_Stirnwei%c3%9f.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Anschreiben.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Anschreiben.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Carl_Kliefert.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Carl_Kliefert.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Strafverfahren.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Strafverfahren.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Leitgutachten.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Leitgutachten.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Axel_Schur_vom_Zoll.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Axel_Schur_vom_Zoll.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Maik_Lauer_von_der_DRV_Bund.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Maik_Lauer_von_der_DRV_Bund.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Petra_Guttenberger.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Vorsitzender_Richter_am_Landgericht_Peter_Gr%c3%bcnes.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Stellungnahme_der_bayerischen_Staatsregierung.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Petra_Guttenberger.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Doktor_Markus_Wiesner_von_der_Staatsanwaltschaft_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Stellungnahme_der_bayerischen_Staatsregierung.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Beteiligte_Beamte_und_Strafanzeigen.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Doktor_Markus_Wiesner_von_der_Staatsanwaltschaft_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Martin_Stock.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Beteiligte_Beamte_und_Strafanzeigen.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Schreiben_vom_08-11-2023_an_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Martin_Stock.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikdsgw4t5.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Schreiben_vom_08-11-2023_an_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Florian_Engl_von_der_DRV_Schwaben.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikdsgw4t5.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagel23k4.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Florian_Engl_von_der_DRV_Schwaben.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagefr34t45t.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagel23k4.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikara.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagefr34t45t.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_2017-08-11_Beschluss_Vollzug_Untersuchungshaft.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikara.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Vernehmung_nach_Festnahme_und_Beschluss_der_Invollzugsetzung.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-08-11_Beschluss_Vollzug_Untersuchungshaft.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Sarah_Maria_Keil_von_der_Generalzolldirektion.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Vernehmung_nach_Festnahme_und_Beschluss_der_Invollzugsetzung.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Eustrup_von_der_Generalzolldirektion.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Sarah_Maria_Keil_von_der_Generalzolldirektion.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik3453sd.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Eustrup_von_der_Generalzolldirektion.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdf3q45.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik3453sd.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Sarah_Maria_Keil_Generalzolldirektion.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdf3q45.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksfdwe4rt43.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Norbert_B%c3%b6hm_vom_Zoll.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_Schreiben_DRV_BW_an_HZA_Augsburg_2018-03-21.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Sarah_Maria_Keil_Generalzolldirektion.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikf36tg56.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksfdwe4rt43.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Leitgutachten.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Ulrike_Mostek_(nun__Ge%c3%9fler)_vom_Zoll.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikhj2jhrdsd.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Timo_Sch%c3%b6ller_von_der_DRV_Baden-W%c3%bcrttemberg.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_2017-12-27_Axel_Schur_droht_mit_Strafverfolgung.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2_Verf%c3%bcgungen_Wiesner_DRV_Leitgutachten_und_Tel_mit_Richter_20.03.2018.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikfjkhu4.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_Schreiben_DRV_BW_an_HZA_Augsburg_2018-03-21.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_GrafikF433.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Timo_Sch%c3%b6ller_DRV_BW_TEA_DRV_54.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdfwe4.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikf36tg56.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksf34.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Leitgutachten.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Johannes_Pausch_von_der_Staatsanwaltschaft_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Gutachten_zur_Firma_Kliefert_von_der_DRV_Baden-W%c3%bcrttemberg.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Brigitta_Baur_von_der_Staatsanwaltschaft_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikhj2jhrdsd.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Rolf_Werlitz_von_der_Staatsanwaltschaft_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-12-27_Axel_Schur_droht_mit_Strafverfolgung.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_Edelmann_vom_Amtsgericht_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikfjkhu4.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Vorsitzender_Richter_am_Landgericht_Wolfgang_Natale.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_GrafikF433.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richterin_am_Landgericht_Alexandra_Nicklas.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2014-09-01_STA_T%c3%bcbingen_an_FKS_Lindau_Einstellung_Kliefert.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richterin_am_Landgericht_Sabine_Graf-Peters.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdfwe4.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richterin_am_Landgericht_Melanie_Ostermeier.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksf34.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Landgericht_Doktor_Bauer.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Johannes_Pausch_von_der_Staatsanwaltschaft_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Peickert.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Brigitta_Baur_von_der_Staatsanwaltschaft_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richterin_am_Oberlandesgericht_Paintner.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Rolf_Werlitz_von_der_Staatsanwaltschaft_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richterin_am_Oberlandesgericht_Steudtner.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/M%c3%bcller_von_der_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Hertel.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_Edelmann_vom_Amtsgericht_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Vorsitzende_Richterin_am_Oberlandesgericht_Tacke.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Vorsitzender_Richter_am_Landgericht_Wolfgang_Natale.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Diederichs.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richterin_am_Landgericht_Alexandra_Nicklas.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Prechsl.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richterin_am_Landgericht_Sabine_Graf-Peters.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Antworten_auf_das_Schreiben_vom_08-11-2023_an_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richterin_am_Landgericht_Melanie_Ostermeier.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Antwort_von_Frau_Petra_Guttenberger_auf_das_Schreiben_vom_08-11-2023.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Landgericht_Doktor_Bauer.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Petition.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Peickert.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Zuweisung_Petition.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richterin_am_Oberlandesgericht_Paintner.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Ablehnung_der_Petition.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Vorsitzende_Richterin_am_Oberlandesgericht_Margarete_N%c3%b6tzel.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkl34j5.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richterin_am_Oberlandesgericht_Steudtner.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_2024-02-09_Stelllungnahme_STMJ_OCR.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Hertel.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Stellungnahme_zur_Stellungnahme_der_Regierung.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Vorsitzende_Richterin_am_Oberlandesgericht_Tacke.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjh3jku345.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Diederichs.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdf342.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Oberlandesgericht_Prechsl.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkj4k43l9.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Antworten_auf_das_Schreiben_vom_08-11-2023_an_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikl34jk23jh453kn.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Antwort_von_Frau_Petra_Guttenberger_auf_das_Schreiben_vom_08-11-2023.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Beschwerde_Strafanzeigen_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Petition.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdfe4w3.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Zuweisung_Petition.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik2323424E.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Mitteilung_Behandlung_der_Petition_erfolgt_nicht%c3%b6ffentlich.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkl23kl4l234.html</loc>
+	<lastmod>2025-10-28T18:26:35+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Ablehnung_der_Petition.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagedf34t46.html</loc>
+	<lastmod>2025-10-28T18:26:37+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkl34j5.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagef43r.html</loc>
+	<lastmod>2025-10-28T18:26:37+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2024-02-09_Stelllungnahme_STMJ_OCR.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjkl5423lij45.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Stellungnahme_zur_Stellungnahme_der_Regierung.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_2015-04-01_FKS_Lindau_an_DRV_Schwaben_Weissenhorn.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Sitzung_des_Ausschuss_f%c3%bcr_Verfassung_Recht_Parlamentsfragen_und_Integration_vom_14-03-2024.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagegft34t54.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjh3jku345.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Image37j8.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdf342.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkl34jl56s.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_STMJ_Ministerialrat_M%c3%bcller_2024-08-14.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Florian_Engl_von_der_DRV_Schwaben.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/M%c3%bcller_vom_Bayerischen_Staatsministerium_der_Justiz.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikuk3h45jhj.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkj4k43l9.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdfg3453fsf.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikl34jk23jh453kn.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikwer4w.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Ulrike_Ge%c3%9fler_durch_die_Staatsanwaltschaft_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik32453ff.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Beschwerde_Strafanzeigen_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik23khj42.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Timo_Sch%c3%b6ller_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiklki45j6.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Maik_Lauer_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagelk4323l23.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2024-07-24_GenStA_M%c3%bcnchen-Wiesner.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Haftbefehl.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Ostermeier_Gr%c3%bcnes_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imageh123f13.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Hain_Gr%c3%b6tsch_Westenhuber_Hausberger_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Image3l2s34.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Marx_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Image2323h4.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Florian_Engl_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagefgg345f2.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Antrag_PKH_f%c3%bcr_Antrag_auf_gerichtl_Entsch_gegen_Bescheid_GSTA_M%c3%bcnchen_bei_OLG_M%c3%bcnchen_verschiedene_2024-08.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagef34t4t.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2024-11-18_Ablehnung_Strafanzeige_Markus_Wiesner_durch_OLG_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagef34345.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2025-03-13_Ablehnung_Strafanzeigen_durch_OLG_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Image23kl54l5.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdfe4w3.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagek5k5.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik2323424E.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagel3l3.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkl23kl4l234.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagelk33.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Einstellung_nach_%c2%a7_153a_StPO.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Image2rf2.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Richter_des_OLG_M%c3%bcnchen_wegen_Verleumdung.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.64</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagek23j4.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiklk34h35g.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagel234k.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagedf34t46.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Imageh32j45.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagef43r.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Axel_Schur_vom_Zoll.html</loc>
+	<lastmod>2025-10-28T18:26:38+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagegft34t54.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Anklage.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Anklage.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikgf54453.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikgf54453.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikf232d.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikf232d.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdf2f3.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdf2f3.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjkh34253.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjkl5423lij45.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikd32d32d.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2015-04-01_FKS_Lindau_an_DRV_Schwaben_Weissenhorn.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksqw3.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image37j8.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkj345jl.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkl34jl56s.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Maik_Lauer_DRV_Bund.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Florian_Engl_von_der_DRV_Schwaben.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Elke_Marx_von_der_DRV_Berlin-Brandenburg.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikuk3h45jhj.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Thiemig_von_der_DRV_Mitteldeutschland.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdfg3453fsf.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Winfried_Pietrek_von_der_DRV_Bund.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikwer4w.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Alfred_Neidert_von_der_DRV_Bund.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik32453ff.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_An_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-04-24_Gespr%c3%a4ch_Lauxmann_Czauderna.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_10.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik23khj42.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_11.html</loc>
+	<lastmod>2025-10-28T18:26:39+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiklki45j6.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagelk4323l23.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiklkj2354gf.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Haftbefehl.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_5.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image3l2s34.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_6.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imageh123f13.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikftg3t454t.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2021-02-16_Verf%c3%bcgung_Haftbefehl_Pausch.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagerf234l.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image2323h4.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Florian_Engl_DRV_Schwaben_Zweites_Gutachten_zur_Firma_M.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagefgg345f2.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjklkl56.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Axel_Schur_vom_Zoll.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Richter_am_Landgericht_Peikert.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Zusammenfassung_charakterliche_Entwicklungsst%c3%a4nde.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2024-07-09_STA_Augsburg_Einstellung_Florian_Engl.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjkh34253.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Image2d23er4.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Zeugenladung_und_Befangenheit_Sachverst%c3%a4ndiger_Lauer.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiksdfd.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikd32d32d.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjh3kuj.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksqw3.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik3lkij4h5.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkj345jl.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Verf._26.03.18_Haftfortdauer.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Maik_Lauer_DRV_Bund.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Dr_Markus_Wiesner_Sta_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Richter_am_Landgericht_Peikert.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikasdfasdf.html</loc>
+	<lastmod>2025-10-28T18:26:40+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2019-07-08_Peter_Gr%c3%bcnes_Annahme_der_Anklage.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2017-10-12_Vernehmung_Inhaftierung_Beschluss_Invollzugsetzung.html</loc>
+	<lastmod>2025-10-28T18:26:41+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Elke_Marx_von_der_DRV_Berlin-Brandenburg.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2017-10-13_Vollzugsanordnung_Trennung.html</loc>
+	<lastmod>2025-10-28T18:26:41+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Thiemig_von_der_DRV_Mitteldeutschland.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2017-10-13_Antrag_STA_Haftbeschwerde_ablehnen.html</loc>
+	<lastmod>2025-10-28T18:26:41+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Martina_Gr%c3%b6tsch_von_der_DRV_Nordbayern.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Imagekl5366.html</loc>
+	<lastmod>2025-10-28T18:26:41+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Bettina_Hain_von_der_DRV_Bayern_S%c3%bcd.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Image23r3f.html</loc>
+	<lastmod>2025-10-28T18:26:41+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Westenhuber_von_der_DRV_Bayern_S%c3%bcd.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Sarah_Maria_Keil_von_der_Generalzolldirektion.html</loc>
+	<lastmod>2025-10-28T18:26:42+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image2d23er4.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Sarah_Maria_Keil_durch_Sta_Augsburg.html</loc>
+	<lastmod>2025-10-28T18:26:42+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksdfd.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/f/fa/2017-08-11_Beschluss_Vollzug_Untersuchungshaft.pdf</loc>
+	<lastmod>2025-10-28T18:26:42+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjh3kuj.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/9/9f/Sarah_Maria_Keil_Generalzolldirektion.pdf</loc>
+	<lastmod>2025-10-28T18:26:42+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-07-17_Verf%c3%bcgung_Wiesner_Entleiher_als_Zeugen_vernehmen.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/f/f9/Leitgutachten.pdf</loc>
+	<lastmod>2025-10-28T18:26:46+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik3lkij4h5.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/9/96/2017-12-27_Axel_Schur_droht_mit_Strafverfolgung.pdf</loc>
+	<lastmod>2025-10-28T18:26:46+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-07-17_Verf%c3%bcgung_Wiesner_rechtliche_W%c3%bcrdigung.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2018-04-04_Brigitta_Baur_beantragt_Fortdauer_der_Untersuchungshaft.html</loc>
+	<lastmod>2025-10-28T18:26:47+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Verf._26.03.18_Haftfortdauer.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiklk34h35g.html</loc>
+	<lastmod>2025-10-28T18:26:48+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Dr_Markus_Wiesner_Sta_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2022-07-14_OLG_Beschluss-Ablehnung_Aufhebung_Haftbefehl.html</loc>
+	<lastmod>2025-10-28T18:26:49+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikasdfasdf.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikjk34kj5jk3.html</loc>
+	<lastmod>2025-10-28T18:26:49+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Winfried_Pietrek_von_der_DRV_Bund.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-17_Petra_Guttenberger.html</loc>
+	<lastmod>2025-10-28T18:26:49+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Alfred_Neidert_von_der_DRV_Bund.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik.html</loc>
+	<lastmod>2025-10-28T18:26:49+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Alfred_Richter_von_der_DRV_Baden-W%c3%bcrttemberg.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/e/e0/2024-02-09_Stelllungnahme_STMJ_OCR.pdf</loc>
+	<lastmod>2025-10-28T18:26:50+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Marion_F%c3%bcgen_von_der_DRV_Baden-W%c3%bcrttemberg.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Petitionen.html</loc>
+	<lastmod>2025-10-28T18:26:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Hausberger_von_der_DRV_Bayern_S%c3%bcd.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2024-04-18_Ablehnung_Petition.html</loc>
+	<lastmod>2025-10-28T18:26:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_An_alle_Mitglieder_des_bayerischen_Landtags.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_9.html</loc>
+	<lastmod>2025-10-28T18:26:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_10.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-16_Staatsministerin_Ulrike_Scharf.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_11.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-14_Markus_Rinderspacher.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-20_Holger_Dremel.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiklkj2354gf.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-21_Toni_Schuberl.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_5.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-20_Staatsminister_Aiwanger.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_6.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-21_Dr_Harald_Schwartz.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikftg3t454t.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-17_Staatsministerin_Anna_Stolz.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Florian_Engl_DRV_Schwaben_Zweites_Gutachten_zur_Firma_M.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-21_Bayerische_Staatskanzlei.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjklkl56.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-16_Staatsminister_Herrmann.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2024-07-09_STA_Augsburg_Einstellung_Florian_Engl.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-22_StMUV_.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2024-08-29_GSTA_M%c3%bcnchen_Einstellung_Engl.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_2023-11-21_StMFH.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/f/fa/2017-08-11_Beschluss_Vollzug_Untersuchungshaft.pdf</loc>
-  <lastmod>2025-09-16T12:52:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/e/e3/Stellungnahme_zur_Stellungnahme_der_Regierung.pdf</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-10-12_Vernehmung_Inhaftierung_Beschluss_Invollzugsetzung.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Auszug_12.html</loc>
+	<lastmod>2025-10-28T18:26:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-10-12_Verf%c3%bcgung_Haftbeschwerde_abgelehnt.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/8/8c/Beschwerde_Strafanzeigen_Augsburg.pdf</loc>
+	<lastmod>2025-10-28T18:26:54+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-10-13_Vollzugsanordnung_Trennung.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/9/9b/2015-04-01_FKS_Lindau_an_DRV_Schwaben_Weissenhorn.pdf</loc>
+	<lastmod>2025-10-28T18:26:55+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2017-10-13_Antrag_STA_Haftbeschwerde_ablehnen.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/9/9c/Strafanzeige_gegen_Florian_Engl_von_der_DRV_Schwaben.pdf</loc>
+	<lastmod>2025-10-28T18:26:59+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagekl5366.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/a/a5/Haftbefehl.pdf</loc>
+	<lastmod>2025-10-28T18:27:00+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image23r3f.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/7/7a/Strafanzeige_gegen_Axel_Schur_vom_Zoll.pdf</loc>
+	<lastmod>2025-10-28T18:27:01+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagef34t4t.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkl3i4j5kl34h.html</loc>
+	<lastmod>2025-10-28T18:27:03+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagef34345.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik53245g.html</loc>
+	<lastmod>2025-10-28T18:27:03+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image23kl54l5.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafiklik34j535.html</loc>
+	<lastmod>2025-10-28T18:27:03+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagek5k5.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/4/45/Anklage.pdf</loc>
+	<lastmod>2025-10-28T18:27:04+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagel3l3.html</loc>
-  <lastmod>2025-10-09T12:58:45+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafikkjlkl34k4k.html</loc>
+	<lastmod>2025-10-28T18:27:06+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagelk33.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Elke_Marx_-_public.html</loc>
+	<lastmod>2025-10-28T18:27:06+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Image2rf2.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/b/bc/Strafanzeige_gegen_Maik_Lauer_DRV_Bund.pdf</loc>
+	<lastmod>2025-10-28T18:27:07+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagek23j4.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_EMA_Band_VII_Bl._1980-1982.html</loc>
+	<lastmod>2025-10-28T18:27:07+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imagel234k.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/Datei_Grafik3skmj4k348.html</loc>
+	<lastmod>2025-10-28T18:27:07+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Imageh32j45.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/a/a7/Strafanzeige_gegen_Dr_Markus_Wiesner_Sta_Augsburg.pdf</loc>
+	<lastmod>2025-10-28T18:27:08+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Sarah_Maria_Keil_von_der_Generalzolldirektion.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/4/47/An_alle_Mitglieder_des_bayerischen_Landtags.pdf</loc>
+	<lastmod>2025-10-28T18:27:08+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Ablehnung_Strafanzeige_Sarah_Maria_Keil_durch_Sta_Augsburg.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/2/2a/2024-07-09_STA_Augsburg_Einstellung_Florian_Engl.pdf</loc>
+	<lastmod>2025-10-28T18:27:10+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/9/9f/Sarah_Maria_Keil_Generalzolldirektion.pdf</loc>
-  <lastmod>2025-09-16T13:35:38+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/2/2e/2018-04-04_Brigitta_Baur_beantragt_Fortdauer_der_Untersuchungshaft.pdf</loc>
+	<lastmod>2025-10-28T18:27:11+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafiksg345345fg.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/5/5a/2017-10-12_Vernehmung_Inhaftierung_Beschluss_Invollzugsetzung.pdf</loc>
+	<lastmod>2025-10-28T18:27:11+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafik56z7u8878.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/5/5f/2017-10-13_Antrag_STA_Haftbeschwerde_ablehnen.pdf</loc>
+	<lastmod>2025-10-28T18:27:12+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikt6gt4564.html</loc>
-  <lastmod>2025-10-09T12:58:45+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/b/be/Florian_Engl_DRV_Schwaben_Zweites_Gutachten_zur_Firma_M.pdf</loc>
+	<lastmod>2025-10-28T18:27:12+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Ulrike_Mostek_Gessler.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/6/60/Ablehnung_Strafanzeige_Sarah_Maria_Keil_durch_Sta_Augsburg.pdf</loc>
+	<lastmod>2025-10-28T18:27:13+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikg45456t.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/2/26/Petitionen.pdf</loc>
+	<lastmod>2025-10-28T18:27:14+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Timo_Sch%c3%b6ller_von_der_Deutschen_Rentenversicherung_Baden-W%c3%bcrttemberg.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/7/75/2022-07-14_OLG_Beschluss-Ablehnung_Aufhebung_Haftbefehl.pdf</loc>
+	<lastmod>2025-10-28T18:27:15+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/4/4c/2_Verf%c3%bcgungen_Wiesner_DRV_Leitgutachten_und_Tel_mit_Richter_20.03.2018.pdf</loc>
-  <lastmod>2025-09-16T13:21:02+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/5/5c/2023-11-17_Petra_Guttenberger.pdf</loc>
+	<lastmod>2025-10-28T18:27:15+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/e/e1/Timo_Sch%c3%b6ller_DRV_BW_TEA_DRV_54.pdf</loc>
-  <lastmod>2025-09-16T13:36:41+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/0/08/2023-11-16_Staatsministerin_Ulrike_Scharf.pdf</loc>
+	<lastmod>2025-10-28T18:27:16+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/f/f9/Leitgutachten.pdf</loc>
-  <lastmod>2025-09-16T13:34:25+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/8/8f/2024-04-18_Ablehnung_Petition.pdf</loc>
+	<lastmod>2025-10-28T18:27:16+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/0/0c/Gutachten_zur_Firma_Kliefert_von_der_DRV_Baden-W%c3%bcrttemberg.pdf</loc>
-  <lastmod>2025-09-16T13:33:35+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/4/4d/2023-11-21_Toni_Schuberl.pdf</loc>
+	<lastmod>2025-10-28T18:27:16+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/9/96/2017-12-27_Axel_Schur_droht_mit_Strafverfolgung.pdf</loc>
-  <lastmod>2025-09-16T12:53:57+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/0/01/Verf._26.03.18_Haftfortdauer.pdf</loc>
+	<lastmod>2025-10-28T18:27:16+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/images/7/7f/2014-09-01_STA_T%c3%bcbingen_an_FKS_Lindau_Einstellung_Kliefert.pdf</loc>
-  <lastmod>2025-09-16T12:42:19+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/a/ae/2023-11-20_Holger_Dremel.pdf</loc>
+	<lastmod>2025-10-28T18:27:16+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2018-04-04_Brigitta_Baur_beantragt_Fortdauer_der_Untersuchungshaft.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/a/a4/2023-11-21_Dr_Harald_Schwartz.pdf</loc>
+	<lastmod>2025-10-28T18:27:17+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2018-08-22_Rolf_Werlitz_erh%c3%a4lt_die_Akten_zur%c3%bcck.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/2/2a/2017-10-13_Vollzugsanordnung_Trennung.pdf</loc>
+	<lastmod>2025-10-28T18:27:17+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2018-07-30_Oberstaatsanwalt_M%c3%bcller_beantragt_die_Fortsetzung_der_Untersuchungshaft.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/f/f0/2023-11-20_Staatsminister_Aiwanger.pdf</loc>
+	<lastmod>2025-10-28T18:27:17+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2022-07-14_OLG_Beschluss-Ablehnung_Aufhebung_Haftbefehl.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/4/44/2023-11-16_Staatsminister_Herrmann.pdf</loc>
+	<lastmod>2025-10-28T18:27:17+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2018-05-02_Anordnung_Fortdauer_Untersuchungshaft_OLG_M%c3%bcnchen.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/0/01/2023-11-21_Bayerische_Staatskanzlei.pdf</loc>
+	<lastmod>2025-10-28T18:27:18+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2018-08-10_Verf%c3%bcgung_Vorsitzende_Richterin_am_Oberlandesgericht_N%c3%b6tzel_%c3%bcber_die_Entscheidung_zur_Fortsetzung_der_Untersuchungshaft.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/5/55/2023-11-21_StMFH.pdf</loc>
+	<lastmod>2025-10-28T18:27:18+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjk34kj5jk3.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/f/ff/Strafanzeige_gegen_Sarah_Maria_Keil_von_der_Generalzolldirektion.pdf</loc>
+	<lastmod>2025-10-28T18:27:18+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-16_Staatsministerin_Ulrike_Scharf.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/b/b3/2023-11-14_Markus_Rinderspacher.pdf</loc>
+	<lastmod>2025-10-28T18:27:21+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-14_Markus_Rinderspacher.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/5/5d/EMA_Band_VII_Bl._1980-1982.pdf</loc>
+	<lastmod>2025-10-28T18:27:22+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-20_Holger_Dremel.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/e/e7/2023-11-17_Staatsministerin_Anna_Stolz.pdf</loc>
+	<lastmod>2025-10-28T18:27:23+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-21_Toni_Schuberl.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/b/b3/2023-11-22_StMUV_.pdf</loc>
+	<lastmod>2025-10-28T18:27:23+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
 <url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-21_Staatssekret%c3%a4r_Sandro_Kirchner.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
+	<loc>https://revision.kliefert.net/images/e/ec/Strafanzeige_gegen_Elke_Marx_-_public.pdf</loc>
+	<lastmod>2025-10-28T18:27:29+01:00</lastmod>
+	<priority>0.4</priority>
 </url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-20_Staatsminister_Aiwanger.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-21_Dr_Harald_Schwartz.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-17_Staatsministerin_Anna_Stolz.html</loc>
-  <lastmod>2025-10-09T12:58:45+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-21_Bayerische_Staatskanzlei.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-16_Staatsminister_Herrmann.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-22_StMUV_.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-17_Petra_Guttenberger.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2023-11-21_StMFH.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafik.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Petitionen.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_12.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_13.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_2024-04-18_Ablehnung_Petition.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Auszug_9.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/e/e0/2024-02-09_Stelllungnahme_STMJ_OCR.pdf</loc>
-  <lastmod>2025-02-09T19:11:41+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/e/e3/Stellungnahme_zur_Stellungnahme_der_Regierung.pdf</loc>
-  <lastmod>2025-02-09T19:19:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/e/e8/STMJ_Ministerialrat_M%c3%bcller_2024-08-14.pdf</loc>
-  <lastmod>2025-09-16T13:35:01+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/f/fd/Ablehnung_Strafanzeige_Ulrike_Ge%c3%9fler_durch_die_Staatsanwaltschaft_Augsburg.pdf</loc>
-  <lastmod>2025-09-16T13:29:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/8c/Beschwerde_Strafanzeigen_Augsburg.pdf</loc>
-  <lastmod>2025-07-14T10:09:23+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/7/76/Ablehnung_Strafanzeige_Timo_Sch%c3%b6ller_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:28:35+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/c/c6/Ablehnung_Strafanzeige_Maik_Lauer_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:25:11+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/d/dc/2024-07-24_GenStA_M%c3%bcnchen-Wiesner.pdf</loc>
-  <lastmod>2025-09-16T13:15:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/3/31/Ablehnung_Strafanzeige_Ostermeier_Gr%c3%bcnes_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-07-12T11:06:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/a1/Ablehnung_Strafanzeige_Hain_Gr%c3%b6tsch_Westenhuber_Hausberger_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:23:19+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/d/d4/Ablehnung_Strafanzeige_Marx_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:24:09+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/3/39/Ablehnung_Strafanzeige_Florian_Engl_durch_die_Generalstaatsanwaltschaft_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:21:58+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/f/f8/Antrag_PKH_f%c3%bcr_Antrag_auf_gerichtl_Entsch_gegen_Bescheid_GSTA_M%c3%bcnchen_bei_OLG_M%c3%bcnchen_verschiedene_2024-08.pdf</loc>
-  <lastmod>2025-09-09T10:39:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/3/3d/2024-11-18_Ablehnung_Strafanzeige_Markus_Wiesner_durch_OLG_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:19:27+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/1/12/2025-03-13_Ablehnung_Strafanzeigen_durch_OLG_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-09-16T13:20:10+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/1/18/Strafanzeige_gegen_Richter_des_OLG_M%c3%bcnchen_wegen_Verleumdung.pdf</loc>
-  <lastmod>2025-07-15T15:34:39+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/4/45/Anklage.pdf</loc>
-  <lastmod>2025-09-16T13:30:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/9/9b/2015-04-01_FKS_Lindau_an_DRV_Schwaben_Weissenhorn.pdf</loc>
-  <lastmod>2025-09-16T12:47:30+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/9/9c/Strafanzeige_gegen_Florian_Engl_von_der_DRV_Schwaben.pdf</loc>
-  <lastmod>2025-09-09T10:02:45+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/7/78/2017-04-24_Gespr%c3%a4ch_Lauxmann_Czauderna.pdf</loc>
-  <lastmod>2025-09-16T12:50:28+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/a5/Haftbefehl.pdf</loc>
-  <lastmod>2025-09-16T13:34:01+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/0/02/2021-02-16_Verf%c3%bcgung_Haftbefehl_Pausch.pdf</loc>
-  <lastmod>2025-09-16T12:56:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/7/7a/Strafanzeige_gegen_Axel_Schur_vom_Zoll.pdf</loc>
-  <lastmod>2025-09-08T16:36:08+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/8d/Ablehnung_Zeugenladung_und_Befangenheit_Sachverst%c3%a4ndiger_Lauer.pdf</loc>
-  <lastmod>2025-09-16T13:29:42+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/b/bc/Strafanzeige_gegen_Maik_Lauer_DRV_Bund.pdf</loc>
-  <lastmod>2025-09-09T10:08:31+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/83/2019-07-08_Peter_Gr%c3%bcnes_Annahme_der_Anklage.pdf</loc>
-  <lastmod>2025-09-16T12:56:27+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkjlkl34k4k.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikfg2l%c3%b623.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Strafanzeige_gegen_Elke_Marx_-_public.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkl3i4j5kl34h.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafik53245g.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafiklik34j535.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjk324jh5.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjk44ss9.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafiklik3453ls.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafik23lk2l.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikk234kh234.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikk3l46498.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/2f/2017-07-17_Verf%c3%bcgung_Wiesner_Entleiher_als_Zeugen_vernehmen.pdf</loc>
-  <lastmod>2025-09-16T12:51:12+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/2f/2017-07-17_Verf%c3%bcgung_Wiesner_rechtliche_W%c3%bcrdigung.pdf</loc>
-  <lastmod>2025-09-16T12:52:06+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/0/01/Verf._26.03.18_Haftfortdauer.pdf</loc>
-  <lastmod>2025-09-16T13:37:03+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/a7/Strafanzeige_gegen_Dr_Markus_Wiesner_Sta_Augsburg.pdf</loc>
-  <lastmod>2025-09-08T10:38:24+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_EMA_Band_VII_Bl._1980-1982.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafik3skmj4k348.html</loc>
-  <lastmod>2025-10-09T12:58:48+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikgf453657.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_EMA_Band_VIII_Bl._2279-2280.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikgft346.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikjkh345kj3.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikgt3545.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikgf345ik8.html</loc>
-  <lastmod>2025-10-09T12:58:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikwr3245436.html</loc>
-  <lastmod>2025-10-09T12:58:47+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikkijfr34iol53.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/Datei_Grafikv34t3d23.html</loc>
-  <lastmod>2025-10-09T12:58:46+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/4/47/An_alle_Mitglieder_des_bayerischen_Landtags.pdf</loc>
-  <lastmod>2025-07-12T11:43:22+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/b/be/Florian_Engl_DRV_Schwaben_Zweites_Gutachten_zur_Firma_M.pdf</loc>
-  <lastmod>2025-07-14T10:38:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/2a/2024-07-09_STA_Augsburg_Einstellung_Florian_Engl.pdf</loc>
-  <lastmod>2025-09-16T13:15:02+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/0/08/2024-08-29_GSTA_M%c3%bcnchen_Einstellung_Engl.pdf</loc>
-  <lastmod>2025-09-16T13:18:54+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/5/5a/2017-10-12_Vernehmung_Inhaftierung_Beschluss_Invollzugsetzung.pdf</loc>
-  <lastmod>2025-09-09T14:24:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/a5/2017-10-12_Verf%c3%bcgung_Haftbeschwerde_abgelehnt.pdf</loc>
-  <lastmod>2025-09-16T12:53:16+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/2a/2017-10-13_Vollzugsanordnung_Trennung.pdf</loc>
-  <lastmod>2025-09-16T12:53:35+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/5/5f/2017-10-13_Antrag_STA_Haftbeschwerde_ablehnen.pdf</loc>
-  <lastmod>2025-09-02T11:40:25+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/f/ff/Strafanzeige_gegen_Sarah_Maria_Keil_von_der_Generalzolldirektion.pdf</loc>
-  <lastmod>2025-09-08T10:31:20+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/6/60/Ablehnung_Strafanzeige_Sarah_Maria_Keil_durch_Sta_Augsburg.pdf</loc>
-  <lastmod>2025-09-16T13:27:56+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/3/36/Strafanzeige_gegen_Ulrike_Mostek_Gessler.pdf</loc>
-  <lastmod>2025-09-08T11:09:35+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/88/Strafanzeige_gegen_Timo_Sch%c3%b6ller_von_der_Deutschen_Rentenversicherung_Baden-W%c3%bcrttemberg.pdf</loc>
-  <lastmod>2025-09-09T18:08:28+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/2e/2018-04-04_Brigitta_Baur_beantragt_Fortdauer_der_Untersuchungshaft.pdf</loc>
-  <lastmod>2025-09-16T12:54:17+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/1/14/2018-08-22_Rolf_Werlitz_erh%c3%a4lt_die_Akten_zur%c3%bcck.pdf</loc>
-  <lastmod>2025-09-16T12:56:08+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/1/10/2018-07-30_Oberstaatsanwalt_M%c3%bcller_beantragt_die_Fortsetzung_der_Untersuchungshaft.pdf</loc>
-  <lastmod>2025-07-14T14:06:24+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/7/75/2022-07-14_OLG_Beschluss-Ablehnung_Aufhebung_Haftbefehl.pdf</loc>
-  <lastmod>2025-09-16T12:57:11+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/1/14/2018-05-02_Anordnung_Fortdauer_Untersuchungshaft_OLG_M%c3%bcnchen.pdf</loc>
-  <lastmod>2025-07-14T14:42:27+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/84/2018-08-10_Verf%c3%bcgung_Vorsitzende_Richterin_am_Oberlandesgericht_N%c3%b6tzel_%c3%bcber_die_Entscheidung_zur_Fortsetzung_der_Untersuchungshaft.pdf</loc>
-  <lastmod>2025-09-16T12:55:15+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/0/08/2023-11-16_Staatsministerin_Ulrike_Scharf.pdf</loc>
-  <lastmod>2025-09-16T12:58:09+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/b/b3/2023-11-14_Markus_Rinderspacher.pdf</loc>
-  <lastmod>2025-09-16T12:57:32+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/ae/2023-11-20_Holger_Dremel.pdf</loc>
-  <lastmod>2025-09-16T13:01:02+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/4/4d/2023-11-21_Toni_Schuberl.pdf</loc>
-  <lastmod>2025-09-16T13:02:44+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/9/9b/2023-11-21_Staatssekret%c3%a4r_Sandro_Kirchner.pdf</loc>
-  <lastmod>2025-09-16T13:02:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/f/f0/2023-11-20_Staatsminister_Aiwanger.pdf</loc>
-  <lastmod>2025-09-16T13:01:19+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/a/a4/2023-11-21_Dr_Harald_Schwartz.pdf</loc>
-  <lastmod>2025-09-16T13:01:54+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/e/e7/2023-11-17_Staatsministerin_Anna_Stolz.pdf</loc>
-  <lastmod>2025-09-16T12:58:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/0/01/2023-11-21_Bayerische_Staatskanzlei.pdf</loc>
-  <lastmod>2025-09-16T13:01:37+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/4/44/2023-11-16_Staatsminister_Herrmann.pdf</loc>
-  <lastmod>2025-09-16T12:57:52+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/b/b3/2023-11-22_StMUV_.pdf</loc>
-  <lastmod>2025-09-16T13:02:59+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/5/5c/2023-11-17_Petra_Guttenberger.pdf</loc>
-  <lastmod>2025-09-16T12:58:27+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/5/55/2023-11-21_StMFH.pdf</loc>
-  <lastmod>2025-09-16T13:02:12+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/2/26/Petitionen.pdf</loc>
-  <lastmod>2025-07-14T12:30:49+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/8/8f/2024-04-18_Ablehnung_Petition.pdf</loc>
-  <lastmod>2025-09-16T13:08:44+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/e/ec/Strafanzeige_gegen_Elke_Marx_-_public.pdf</loc>
-  <lastmod>2025-07-16T10:26:05+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/5/5d/EMA_Band_VII_Bl._1980-1982.pdf</loc>
-  <lastmod>2025-09-16T13:32:31+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://revision.kliefert.net/images/4/46/EMA_Band_VIII_Bl._2279-2280.pdf</loc>
-  <lastmod>2025-09-16T13:32:03+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-
-
 </urlset>
